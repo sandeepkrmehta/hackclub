@@ -1,5 +1,5 @@
 ---
-name: Leadership Team
+name: BGI CODING CLUB
 description: How to form a team to lead your club
 author: Hack Club staff
 ---
